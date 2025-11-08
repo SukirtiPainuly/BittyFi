@@ -1,9 +1,3 @@
-# BittyFi
-BittyFi is a minimalist DeFi wallet prototype with a clean UI, wallet integration, and modular Flask backend. Built for academic research and real-world experimentation in credit scoring, smart contracts, and decentralized finance. 
-Here’s a clean, professional, and visually engaging `README.md` for your **BittyFi** GitHub repository — tailored to your DeFi wallet project, academic goals, and modular architecture:
-
----
-
 # 🌐 BittyFi — Minimalist DeFi Wallet Prototype
 
 BittyFi is a lightweight, modular decentralized finance (DeFi) wallet built for academic research and real-world experimentation. It combines a clean front-end with Flask-based APIs for credit scoring, wallet analytics, and smart contract interaction.
